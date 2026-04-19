@@ -11,4 +11,4 @@ Restaurant Website (Mashala Tadka) A responsive and user-friendly restaurant web
 
 ###
 order page
-![order page](order page.png)
+![order page](order-page.png)
